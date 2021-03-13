@@ -1,8 +1,9 @@
 ## Openshift-cicd-tools
-```
-Jenkins
-Gogs
-Sonar
-Nexus3
-Tekton
-```
+
+Tools included
+
+. Jenkins
+. Gogs
+. Sonar
+. Nexus3
+. Tekton
